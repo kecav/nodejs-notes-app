@@ -1,6 +1,5 @@
-"# nodejs-notes-app" 
 
-##Commands:
+## Commands:
 ```
   app.js add     Add a note
   app.js update  Update a note
